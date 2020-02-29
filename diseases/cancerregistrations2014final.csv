@@ -1,0 +1,384 @@
+,Contents,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22
+0,,,,,,,,,,,,,,,,,,,,,,,
+1,Table 4: Directly age-standardised¹ registration rates per 100‚000 population of newly diagnosed cases of cancer (third digit): ,,,,,,,,,,,,,,,,,,,,,,
+2,"site‚ sex and region of residence‚ England, 2014",,,,,,,,,,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,,,,,,,,,Registered by February 2016
+4,,,,,,Region,,,,,,,,,,,,,,,,,
+5,,,,,,"North 
+East",,North West,,Yorkshire and The Humber,,East Midlands,,West Midlands,,East,,London,,South East,,South West,
+6,ICD-10 code,Site description,,England,,,,,,,,,,,,,,,,,,,
+7,,,,,,,,,,,,,,,,,,,,,,,
+8,,,,,,,,,,,,,,,,,,,,,,,
+9,C00-C97 excl.C442,All cancers excluding non-melanoma skin cancer (nmsc),Males,670.8,,710.3,,701.1,,670.8,,652.3,,661.4,,660.7,,662.1,,663.5,,673.2,
+10,C00-C97 excl.C442,All cancers excluding non-melanoma skin cancer (nmsc),Females,546.1,,588.9,,577,,551.6,,550.6,,538.6,,528,,528,,536.8,,544.7,
+11,,,,,,,,,,,,,,,,,,,,,,,
+12,C00-C14,"Malignant neoplasm of lip, oral cavity and pharynx",Males,19.4,,22.3,,24,,19.9,,19.2,,18.2,,16.8,,20.9,,17.5,,18,
+13,C00-C14,"Malignant neoplasm of lip, oral cavity and pharynx",Females,9.1,,9.1,,9.3,,9.6,,9,,9.4,,8.9,,9.5,,8.5,,9.1,
+14,,,,,,,,,,,,,,,,,,,,,,,
+15,C00,Malignant neoplasm of lip,Males,0.7,,0.8,u,0.6,,1.2,,0.7,u,0.5,u,1.1,,0.6,u,0.5,u,,u
+16,C00,Malignant neoplasm of lip,Females,0.4,,,u,0.3,u,,u,,u,0.4,u,0.7,,,u,0.4,,,u
+17,,,,,,,,,,,,,,,,,,,,,,,
+18,C01,Malignant neoplasm of base of tongue,Males,2.6,,4,,2.8,,2.3,,2.8,,1.8,,2.1,,2.7,,2.7,,2.7,
+19,C01,Malignant neoplasm of base of tongue,Females,0.7,,0.8,u,0.6,,0.9,,0.5,u,0.9,,0.8,,0.5,u,0.7,,0.7,
+20,,,,,,,,,,,,,,,,,,,,,,,
+21,C02,Malignant neoplasm of other and unspecified parts of tongue,Males,3,,3.3,,3.6,,2.9,,1.9,,3.4,,2.7,,3.6,,2.7,,3,
+22,C02,Malignant neoplasm of other and unspecified parts of tongue,Females,2,,1.6,,2.2,,2.5,,1.9,,1.7,,1.9,,2.5,,1.5,,1.7,
+23,,,,,,,,,,,,,,,,,,,,,,,
+24,C03,Malignant neoplasm of gum,Males,0.8,,,u,0.7,,0.5,u,1,,0.7,u,0.4,u,1,,1.1,,0.6,u
+25,C03,Malignant neoplasm of gum,Females,0.6,,,u,0.5,u,,u,0.7,u,0.6,u,0.9,,0.9,,0.6,,0.6,u
+26,,,,,,,,,,,,,,,,,,,,,,,
+27,C04,Malignant neoplasm of floor of mouth,Males,1.3,,1.1,u,2.1,,1.3,,1.4,,0.9,,1.3,,1.3,,1.2,,0.8,
+28,C04,Malignant neoplasm of floor of mouth,Females,0.7,,0.9,u,0.8,,0.8,,0.9,,0.7,u,0.5,u,0.5,u,0.7,,0.6,u
+29,,,,,,,,,,,,,,,,,,,,,,,
+30,C05,Malignant neoplasm of palate,Males,0.9,,1.2,u,1.2,,0.6,u,1,,0.7,u,0.7,u,1.1,,0.7,,1.1,
+31,C05,Malignant neoplasm of palate,Females,0.7,,,u,0.9,,0.5,u,0.9,,0.7,u,0.6,u,0.6,,0.6,,0.9,
+32,,,,,,,,,,,,,,,,,,,,,,,
+33,C06,Malignant neoplasm of other and unspecified parts of mouth,Males,1.3,,1.5,u,1.9,,1.2,,1.3,,1.3,,1.2,,1.6,,1,,1,
+34,C06,Malignant neoplasm of other and unspecified parts of mouth,Females,0.9,,1.4,u,1,,0.8,,0.7,u,0.9,,0.7,,0.9,,0.7,,0.8,
+35,,,,,,,,,,,,,,,,,,,,,,,
+36,C07,Malignant neoplasm of parotid gland,Males,1.2,,1.1,u,1.1,,0.9,,1.7,,1.1,,0.9,,1.2,,1.2,,1.4,
+37,C07,Malignant neoplasm of parotid gland,Females,0.9,,,u,0.7,,1,,1,,1,,0.8,,0.9,,0.7,,1,
+38,,,,,,,,,,,,,,,,,,,,,,,
+39,C08,Malignant neoplasm of other and unspecified major salivary glands,Males,0.3,,,u,,u,,u,,u,,u,,u,,u,0.3,u,,u
+40,C08,Malignant neoplasm of other and unspecified major salivary glands,Females,0.2,,,u,,u,,u,,u,,u,,u,,u,,u,,u
+41,,,,,,,,,,,,,,,,,,,,,,,
+42,C09,Malignant neoplasm of tonsil,Males,4.1,,3.8,,4.9,,5.1,,4.3,,3.8,,3.6,,3.6,,3.7,,4.1,
+43,C09,Malignant neoplasm of tonsil,Females,1.3,,1.1,u,1.3,,1.3,,1.1,,1,,1.2,,1.2,,1.4,,1.5,
+44,,,,,,,,,,,,,,,,,,,,,,,
+45,C10,Malignant neoplasm of oropharynx,Males,0.8,,1.6,u,1.1,,0.9,,0.8,u,0.9,,0.5,u,0.9,,0.6,,0.6,u
+46,C10,Malignant neoplasm of oropharynx,Females,0.2,,,u,,u,,u,,u,0.3,u,,u,,u,0.2,u,,u
+47,,,,,,,,,,,,,,,,,,,,,,,
+48,C11,Malignant neoplasm of nasopharynx,Males,0.6,,,u,0.6,,0.6,u,0.7,u,0.6,u,0.5,u,0.8,,0.5,,0.7,u
+49,C11,Malignant neoplasm of nasopharynx,Females,0.2,,,u,,u,,u,,u,,u,,u,,u,0.2,u,,u
+50,,,,,,,,,,,,,,,,,,,,,,,
+51,C12,Malignant neoplasm of pyriform sinus,Males,1,,,u,1.6,,1,,0.6,u,1.2,,0.9,,1.1,,0.8,,0.9,
+52,C12,Malignant neoplasm of pyriform sinus,Females,0.2,,,u,,u,,u,,u,,u,,u,,u,,u,0.4,u
+53,,,,,,,,,,,,,,,,,,,,,,,
+54,C13,Malignant neoplasm of hypopharynx,Males,0.7,,1.2,u,1.1,,0.7,u,0.6,u,0.8,,0.4,u,0.9,,0.5,u,0.5,u
+55,C13,Malignant neoplasm of hypopharynx,Females,0.2,,,u,0.3,u,,u,,u,0.4,u,,u,0.3,u,0.2,u,,u
+56,,,,,,,,,,,,,,,,,,,,,,,
+57,C14,"Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx",Males,0.2,,,u,0.3,u,,u,,u,,u,,u,,u,,u,,u
+58,C14,"Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx",Females,0.1,u,,u,,u,,u,,u,,u,,u,,u,,u,,u
+59,,,,,,,,,,,,,,,,,,,,,,,
+60,C15,Malignant neoplasm of oesophagus,Males,21.9,,23.6,,25.3,,23.2,,22.6,,24.3,,20.4,,15.6,,21.5,,21.9,
+61,C15,Malignant neoplasm of oesophagus,Females,8.8,,9.9,,9.5,,8.8,,9.7,,10.1,,7.3,,8.1,,8,,8.7,
+62,,,,,,,,,,,,,,,,,,,,,,,
+63,C16,Malignant neoplasm of stomach,Males,16,,20.6,,17.3,,18.9,,16.8,,17.2,,15,,17,,12.8,,13.1,
+64,C16,Malignant neoplasm of stomach,Females,6.7,,8.7,,8.2,,7.7,,6.9,,6.8,,5.6,,7.9,,5.1,,5,
+65,,,,,,,,,,,,,,,,,,,,,,,
+66,C17,Malignant neoplasm of small intestine,Males,3,,3.2,,3.2,,3.2,,2.4,,3.3,,3.1,,2.4,,2.9,,3.3,
+67,C17,Malignant neoplasm of small intestine,Females,2.1,,2.4,,2.4,,2.2,,1.7,,2.4,,2.3,,1.6,,2,,2,
+68,,,,,,,,,,,,,,,,,,,,,,,
+69,C18-C20,Malignant neoplasm of colon and rectum,Males,84.5,,96.1,,92.2,,85.8,,82.8,,88.1,,79.7,,77.6,,82,,83.3,
+70,C18-C20,Malignant neoplasm of colon and rectum,Females,56.4,,55.3,,57.7,,52.9,,54.8,,56.9,,57.6,,53.4,,56.8,,60.2,
+71,,,,,,,,,,,,,,,,,,,,,,,
+72,C18,Malignant neoplasm of colon,Males,53.8,,60.9,,59.4,,53.6,,50.8,,56.5,,50.5,,49.6,,53.4,,52.8,
+73,C18,Malignant neoplasm of colon,Females,40.7,,40.5,,40.9,,37.9,,38.8,,41.7,,41.7,,38,,41.3,,44,
+74,,,,,,,,,,,,,,,,,,,,,,,
+75,C19,Malignant neoplasm of rectosigmoid junction,Males,4.9,,6.1,,5,,5.1,,5.1,,4.1,,4.7,,5.5,,4.6,,4.8,
+76,C19,Malignant neoplasm of rectosigmoid junction,Females,2.8,,3,,2.5,,2.6,,2.6,,2.6,,3,,3,,2.9,,2.9,
+77,,,,,,,,,,,,,,,,,,,,,,,
+78,C20,Malignant neoplasm of rectum,Males,25.8,,29.1,,27.8,,27,,26.8,,27.5,,24.5,,22.4,,24.1,,25.7,
+79,C20,Malignant neoplasm of rectum,Females,12.9,,11.8,,14.2,,12.5,,13.4,,12.6,,12.8,,12.4,,12.6,,13.3,
+80,,,,,,,,,,,,,,,,,,,,,,,
+81,C21,Malignant neoplasm of anus and anal canal,Males,1.5,,1.4,u,1.5,,1.3,,1.4,,1.6,,1.3,,1.7,,1.8,,1.4,
+82,C21,Malignant neoplasm of anus and anal canal,Females,2.7,,2.5,,2.8,,2.7,,2.8,,2.8,,2.8,,2.8,,2.5,,3.1,
+83,,,,,,,,,,,,,,,,,,,,,,,
+84,C22,Malignant neoplasm of liver and intrahepatic bile ducts,Males,13.4,,17.6,,16.8,,14.3,,11.3,,13.9,,10.1,,15.1,,11.6,,11.9,
+85,C22,Malignant neoplasm of liver and intrahepatic bile ducts,Females,5.8,,7.2,,6.5,,5.3,,6.3,,7.4,,4.7,,6,,5.2,,4.9,
+86,,,,,,,,,,,,,,,,,,,,,,,
+87,C23,Malignant neoplasm of gallbladder,Males,1,,1.4,u,1.1,,1.9,,1,u,0.8,u,1,,0.7,u,0.8,,0.9,
+88,C23,Malignant neoplasm of gallbladder,Females,2.2,,2.9,,2.6,,2.7,,2.1,,2.3,,2.4,,2.5,,1.8,,1.4,
+89,,,,,,,,,,,,,,,,,,,,,,,
+90,C24,Malignant neoplasm of other and unspecified parts of biliary tract,Males,2.3,,2.6,,2.4,,2.2,,2.4,,1.7,,2.5,,2.1,,2.4,,2.3,
+91,C24,Malignant neoplasm of other and unspecified parts of biliary tract,Females,1.4,,1.7,,1.5,,1.7,,1.4,,1,,1.6,,1.6,,1,,1.3,
+92,,,,,,,,,,,,,,,,,,,,,,,
+93,C25,Malignant neoplasm of pancreas,Males,18.3,,17.2,,17.8,,18.5,,18.3,,18.5,,18.3,,18.2,,19.3,,17.9,
+94,C25,Malignant neoplasm of pancreas,Females,14.8,,16.2,,14.2,,14,,14.8,,14.5,,15,,13.5,,15.6,,15.8,
+95,,,,,,,,,,,,,,,,,,,,,,,
+96,C26,Malignant neoplasm of other and ill-defined digestive organs,Males,0.7,,,u,0.9,,,u,1,u,0.6,u,0.6,u,0.6,u,0.7,,0.9,
+97,C26,Malignant neoplasm of other and ill-defined digestive organs,Females,0.6,,,u,0.6,,0.8,,,u,0.4,u,0.3,u,0.6,u,0.8,,1.3,
+98,,,,,,,,,,,,,,,,,,,,,,,
+99,C30,Malignant neoplasm of nasal cavity and middle ear,Males,0.7,,0.8,u,0.6,,0.6,u,1,,0.7,u,0.6,u,0.9,,0.5,,1.1,
+100,C30,Malignant neoplasm of nasal cavity and middle ear,Females,0.4,,,u,0.3,u,0.5,u,0.6,u,0.5,u,0.3,u,0.3,u,0.4,,,u
+101,,,,,,,,,,,,,,,,,,,,,,,
+102,C31,Malignant neoplasm of accessory sinuses,Males,0.3,,,u,,u,,u,0.5,u,0.5,u,,u,0.4,u,0.3,u,,u
+103,C31,Malignant neoplasm of accessory sinuses,Females,0.2,,,u,,u,,u,,u,,u,,u,,u,0.3,u,,u
+104,,,,,,,,,,,,,,,,,,,,,,,
+105,C32,Malignant neoplasm of larynx,Males,6.7,,8.1,,7.6,,8.7,,7,,5.9,,5.4,,7.8,,5.9,,5,
+106,C32,Malignant neoplasm of larynx,Females,1.2,,1.9,,1.5,,1.5,,1.1,,1,,1,,1.3,,0.9,,0.9,
+107,,,,,,,,,,,,,,,,,,,,,,,
+108,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",Males,91.6,,123.6,,109.3,,106.7,,91,,90,,80.5,,90.6,,77.8,,79,
+109,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",Females,65.2,,100.4,,86.5,,79.6,,63.6,,60.5,,53.5,,61.8,,53.3,,50.6,
+110,,,,,,,,,,,,,,,,,,,,,,,
+111,C33,Malignant neoplasm of trachea,Males,0.1,u,,u,,u,,u,,u,,u,,u,,u,,u,,u
+112,C33,Malignant neoplasm of trachea,Females,0.1,u,,u,,u,,u,,u,,u,,u,,u,,u,,u
+113,,,,,,,,,,,,,,,,,,,,,,,
+114,C34,Malignant neoplasm of bronchus and lung,Males,91.5,,123.6,,109.2,,106.6,,90.8,,89.8,,80.5,,90.4,,77.7,,78.9,
+115,C34,Malignant neoplasm of bronchus and lung,Females,65.1,,100.4,,86.5,,79.5,,63.4,,60.4,,53.5,,61.8,,53.3,,50.5,
+116,,,,,,,,,,,,,,,,,,,,,,,
+117,C37,Malignant neoplasm of thymus,Males,0.4,,,u,0.3,u,,u,,u,,u,0.4,u,0.5,u,0.4,u,0.6,u
+118,C37,Malignant neoplasm of thymus,Females,0.3,,,u,,u,,u,0.5,u,0.4,u,,u,0.5,u,0.3,u,,u
+119,,,,,,,,,,,,,,,,,,,,,,,
+120,C38,"Malignant neoplasm of heart, mediastinum and pleura",Males,0.3,,,u,,u,,u,,u,,u,,u,0.5,u,,u,0.5,u
+121,C38,"Malignant neoplasm of heart, mediastinum and pleura",Females,0.1,,,u,,u,,u,,u,,u,,u,,u,,u,,u
+122,,,,,,,,,,,,,,,,,,,,,,,
+123,C39,Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs,Males,,u,,u,,u,,u,,u,,u,,u,,u,,u,,u
+124,C39,Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs,Females,,u,,u,,u,,u,,u,,u,,u,,u,,u,,u
+125,,,,,,,,,,,,,,,,,,,,,,,
+126,C40,Malignant neoplasm of bone and articular cartilage of limbs,Males,0.5,,,u,0.5,u,0.6,u,,u,0.6,u,0.4,u,0.6,,0.4,u,0.5,u
+127,C40,Malignant neoplasm of bone and articular cartilage of limbs,Females,0.4,,,u,0.3,u,0.4,u,0.5,u,0.5,u,0.4,u,0.4,u,0.4,,,u
+128,,,,,,,,,,,,,,,,,,,,,,,
+129,C41,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,Males,0.5,,,u,0.4,u,0.6,u,0.5,u,0.5,u,,u,0.5,u,0.7,,0.5,u
+130,C41,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,Females,0.4,,,u,0.5,u,0.5,u,,u,0.3,u,0.3,u,0.5,u,0.4,u,0.4,u
+131,,,,,,,,,,,,,,,,,,,,,,,
+132,C43,Malignant melanoma of skin,Males,28,,25.9,,28.8,,22.7,,26.3,,23.8,,27.2,,20.1,,33.9,,38.4,
+133,C43,Malignant melanoma of skin,Females,24.3,,29.4,,24.7,,22.1,,24.1,,19.9,,23.9,,16.4,,28.7,,30.9,
+134,,,,,,,,,,,,,,,,,,,,,,,
+135,C443,Other malignant neoplasms of skin,Males,288,,206.6,,295,,231.1,,272.9,,266.4,,330.2,,222.7,,332.9,,348.2,
+136,C443,Other malignant neoplasms of skin,Females,184.3,,145.5,,198.9,,150.6,,168.6,,163.3,,205.4,,140.5,,214.8,,225.7,
+137,,,,,,,,,,,,,,,,,,,,,,,
+138,C45,Mesothelioma,Males,9,,13,,9.8,,8.7,,7.9,,6,,10.6,,7.7,,9.5,,9.1,
+139,C45,Mesothelioma,Females,1.5,,1.7,,1.2,,1.9,,1.3,,1,,1.9,,1.5,,1.4,,1.5,
+140,,,,,,,,,,,,,,,,,,,,,,,
+141,C46,Kaposi's sarcoma,Males,0.5,,,u,0.4,u,,u,,u,,u,,u,1.9,,0.3,u,,u
+142,C46,Kaposi's sarcoma,Females,0.1,u,,u,,u,,u,,u,,u,,u,,u,,u,,u
+143,,,,,,,,,,,,,,,,,,,,,,,
+144,C47,Malignant neoplasm of peripheral nerves and autonomic nervous system,Males,0.1,,,u,,u,,u,,u,,u,,u,,u,,u,,u
+145,C47,Malignant neoplasm of peripheral nerves and autonomic nervous system,Females,0.1,u,,u,,u,,u,,u,,u,,u,,u,,u,,u
+146,,,,,,,,,,,,,,,,,,,,,,,
+147,C48,Malignant neoplasm of retroperitoneum and peritoneum,Males,0.5,,,u,0.4,u,0.6,u,,u,0.7,u,0.6,u,0.7,u,0.6,,0.5,u
+148,C48,Malignant neoplasm of retroperitoneum and peritoneum,Females,2,,2.8,,1.3,,3.9,,1.7,,1.4,,1.8,,1.3,,2,,2.6,
+149,,,,,,,,,,,,,,,,,,,,,,,
+150,C49,Malignant neoplasm of other connective and soft tissue,Males,4,,5.4,,5.5,,4.5,,3.6,,2.7,,2.7,,4.7,,3.3,,4.8,
+151,C49,Malignant neoplasm of other connective and soft tissue,Females,2.7,,2.1,,3.3,,3,,2.4,,2.6,,2.4,,2.7,,2.7,,2.9,
+152,,,,,,,,,,,,,,,,,,,,,,,
+153,C50,Malignant neoplasm of breast,Males,1.5,,1.2,u,1.8,,1.2,,1.4,,1.7,,1.7,,1.5,,1.5,,1.3,
+154,C50,Malignant neoplasm of breast,Females,173.4,,171.9,,171.1,,162.5,,171.8,,171.9,,172.8,,172.3,,180.7,,180.5,
+155,,,,,,,,,,,,,,,,,,,,,,,
+156,C51,Malignant neoplasm of vulva,Females,3.9,,3,,4.4,,4,,4.1,,3.9,,3.6,,3,,3.8,,4.4,
+157,,,,,,,,,,,,,,,,,,,,,,,
+158,C52,Malignant neoplasm of vagina,Females,0.7,,1,u,0.7,,0.8,,0.9,,0.9,,0.7,,0.4,u,0.7,,0.8,
+159,,,,,,,,,,,,,,,,,,,,,,,
+160,C53,Malignant neoplasm of cervix uteri,Females,9.5,,10.2,,11.7,,11.3,,11.9,,10.7,,7.9,,7.8,,7.9,,10.1,
+161,,,,,,,,,,,,,,,,,,,,,,,
+162,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",Females,29.6,,25.9,,29.9,,27.4,,34.3,,30.7,,30.8,,30.7,,27.3,,29.1,
+163,,,,,,,,,,,,,,,,,,,,,,,
+164,C54,Malignant neoplasm of corpus uteri,Females,29.1,,25.5,,29.7,,27,,33.7,,30.2,,30.5,,30.1,,26.8,,28.5,
+165,,,,,,,,,,,,,,,,,,,,,,,
+166,C55,"Malignant neoplasm of uterus, part unspecified",Females,0.5,,,u,,u,0.5,u,0.6,u,0.5,u,0.3,u,0.6,u,0.5,,0.5,u
+167,,,,,,,,,,,,,,,,,,,,,,,
+168,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,Females,23.9,,21.9,,25.8,,22.7,,23.6,,23.5,,25.2,,22.5,,24.2,,23.9,
+169,,,,,,,,,,,,,,,,,,,,,,,
+170,C56,Malignant neoplasm of ovary,Females,22.6,,21.1,,24.4,,21.1,,22.3,,21.7,,24.4,,21.5,,23,,22.3,
+171,,,,,,,,,,,,,,,,,,,,,,,
+172,C57,Malignant neoplasm of other and unspecified female genital organs,Females,1.3,,0.8,u,1.3,,1.6,,1.3,,1.7,,0.8,,1,,1.2,,1.7,
+173,,,,,,,,,,,,,,,,,,,,,,,
+174,C584,Malignant neoplasm of placenta,Females,0.1,u,,u,,u,,u,,u,,u,,u,,u,,u,,u
+175,,,,,,,,,,,,,,,,,,,,,,,
+176,C60,Malignant neoplasm of penis,Males,2.2,,3.2,,2.4,,2.2,,2.3,,2.9,,1.7,,1.6,,2,,2.4,
+177,,,,,,,,,,,,,,,,,,,,,,,
+178,C61,Malignant neoplasm of prostate,Males,177.8,,152.4,,164.7,,155.9,,169.7,,175,,194.2,,191,,187.1,,187.7,
+179,,,,,,,,,,,,,,,,,,,,,,,
+180,C62,Malignant neoplasm of testis,Males,7.4,,6.4,,8.3,,7.2,,6.9,,7.9,,7.9,,5.3,,8.9,,8,
+181,,,,,,,,,,,,,,,,,,,,,,,
+182,C63,Malignant neoplasm of other and unspecified male genital organs,Males,0.3,,,u,,u,,u,,u,,u,0.6,u,,u,0.3,u,,u
+183,,,,,,,,,,,,,,,,,,,,,,,
+184,C64,"Malignant neoplasm of kidney, except renal pelvis",Males,25,,29.2,,22.9,,26.5,,23.1,,23.5,,26.4,,25,,24.7,,26.2,
+185,C64,"Malignant neoplasm of kidney, except renal pelvis",Females,12.8,,15.4,,14,,15.6,,11.6,,11.6,,12,,11.9,,11.9,,13,
+186,,,,,,,,,,,,,,,,,,,,,,,
+187,C65,Malignant neoplasm of renal pelvis,Males,1.6,,2.1,,2,,1.6,,1.4,,1.2,,1.8,,1.4,,1.3,,1.7,
+188,C65,Malignant neoplasm of renal pelvis,Females,1,,1.1,u,1.3,,1.2,,1.1,,0.9,,1,,0.9,,0.9,,1,
+189,,,,,,,,,,,,,,,,,,,,,,,
+190,C66,Malignant neoplasm of ureter,Males,1.7,,2,,2.2,,1.4,,1.3,,1.6,,1.7,,1.4,,1.8,,1.8,
+191,C66,Malignant neoplasm of ureter,Females,0.8,,0.8,u,0.7,,1,,0.9,,0.8,,1,,0.8,,0.6,,0.6,
+192,,,,,,,,,,,,,,,,,,,,,,,
+193,C67,Malignant neoplasm of bladder,Males,29.1,,28,,31.7,,29.3,,26.2,,28.8,,29.4,,27,,30.5,,28.3,
+194,C67,Malignant neoplasm of bladder,Females,8.2,,10.1,,9.6,,9.6,,7.6,,7.4,,7.4,,7.9,,7.7,,7.9,
+195,,,,,,,,,,,,,,,,,,,,,,,
+196,C68,Malignant neoplasm of other and unspecified urinary organs,Males,0.7,,1.2,u,0.7,u,1.2,,,u,0.5,u,0.4,u,0.8,u,0.5,,1,
+197,C68,Malignant neoplasm of other and unspecified urinary organs,Females,0.1,,,u,,u,,u,,u,,u,,u,,u,,u,,u
+198,,,,,,,,,,,,,,,,,,,,,,,
+199,C69,Malignant neoplasm of eye and adnexa,Males,1.4,,1.3,u,1.6,,1.6,,1.3,,1.9,,1.5,,1.2,,1,,1.6,
+200,C69,Malignant neoplasm of eye and adnexa,Females,1.1,,1,u,1.3,,1.2,,1.9,,1,,0.8,,0.7,,0.8,,1.2,
+201,,,,,,,,,,,,,,,,,,,,,,,
+202,C70,Malignant neoplasm of meninges,Males,0.1,u,,u,,u,,u,,u,,u,,u,,u,,u,,u
+203,C70,Malignant neoplasm of meninges,Females,0.1,,,u,,u,,u,,u,,u,,u,,u,,u,,u
+204,,,,,,,,,,,,,,,,,,,,,,,
+205,C71,Malignant neoplasm of brain,Males,10,,10.5,,11.2,,9.8,,9.5,,10.3,,9,,8.7,,10.3,,10.3,
+206,C71,Malignant neoplasm of brain,Females,6.7,,8.5,,7,,6.3,,7.3,,6.6,,6.5,,5.9,,6.9,,6.6,
+207,,,,,,,,,,,,,,,,,,,,,,,
+208,C72,"Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system",Males,0.3,,,u,0.3,u,0.4,u,,u,,u,,u,,u,,u,,u
+209,C72,"Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system",Females,0.2,,,u,,u,,u,,u,,u,,u,,u,0.2,u,,u
+210,,,,,,,,,,,,,,,,,,,,,,,
+211,C73,Malignant neoplasm of thyroid gland,Males,3.4,,3.3,,4,,3.8,,2.7,,3.3,,3,,3.5,,3.5,,2.9,
+212,C73,Malignant neoplasm of thyroid gland,Females,7.9,,6.7,,8.7,,7.9,,7,,7.7,,8,,9.1,,8,,6.6,
+213,,,,,,,,,,,,,,,,,,,,,,,
+214,C74,Malignant neoplasm of adrenal gland,Males,0.3,,,u,,u,0.4,u,,u,,u,,u,0.4,u,0.3,u,,u
+215,C74,Malignant neoplasm of adrenal gland,Females,0.3,,,u,0.3,u,0.4,u,,u,0.5,u,0.4,u,0.3,u,0.3,u,,u
+216,,,,,,,,,,,,,,,,,,,,,,,
+217,C75,Malignant neoplasm of other endocrine glands and related structures,Males,0.2,,,u,,u,,u,,u,,u,,u,0.3,u,,u,,u
+218,C75,Malignant neoplasm of other endocrine glands and related structures,Females,0.2,,,u,,u,,u,,u,,u,,u,0.3,u,,u,,u
+219,,,,,,,,,,,,,,,,,,,,,,,
+220,C76,Malignant neoplasm of other and ill-defined sites,Males,0.3,,,u,,u,,u,,u,,u,,u,0.4,u,,u,0.6,u
+221,C76,Malignant neoplasm of other and ill-defined sites,Females,0.4,,0.7,u,0.6,,,u,0.5,u,,u,0.3,u,,u,0.4,,0.6,
+222,,,,,,,,,,,,,,,,,,,,,,,
+223,C77,Secondary and unspecified malignant neoplasm of lymph nodes,Males,1.6,,2.1,,1.7,,1.8,,1.7,,1.4,,1.4,,1.6,,1.6,,1.4,
+224,C77,Secondary and unspecified malignant neoplasm of lymph nodes,Females,1,,1.1,u,1.3,,1.1,,1.4,,,u,0.7,,1.1,,1.2,,0.8,
+225,,,,,,,,,,,,,,,,,,,,,,,
+226,C78,Secondary malignant neoplasm of respiratory and digestive organs,Males,4.1,,4.4,,5.2,,4.3,,5.1,,1.3,,4.1,,4.7,,4.6,,3.1,
+227,C78,Secondary malignant neoplasm of respiratory and digestive organs,Females,3.5,,4.8,,4.8,,4,,5.6,,1.3,,2.9,,3.4,,3.6,,2.5,
+228,,,,,,,,,,,,,,,,,,,,,,,
+229,C79,Secondary malignant neoplasm of other sites,Males,1.9,,2.5,,2.4,,1.9,,2,,0.7,u,1.8,,2.1,,1.8,,2.4,
+230,C79,Secondary malignant neoplasm of other sites,Females,1.5,,2.1,,1.5,,1.1,,2.3,,0.7,,0.9,,1.7,,1.8,,1.5,
+231,,,,,,,,,,,,,,,,,,,,,,,
+232,C80,Malignant neoplasm without specification of site,Males,8.7,,9.1,,6.8,,8.8,,8.8,,14.8,,11,,5.7,,7.7,,7.2,
+233,C80,Malignant neoplasm without specification of site,Females,7.3,,8.1,,5.6,,7.8,,7,,12.9,,7.1,,5.4,,6.8,,6.4,
+234,,,,,,,,,,,,,,,,,,,,,,,
+235,C81,Hodgkin's disease,Males,4,,3.6,,3.8,,3.7,,3.8,,4.2,,3.9,,4.6,,4,,3.7,
+236,C81,Hodgkin's disease,Females,2.8,,2.3,,2.3,,2.4,,3.1,,3,,3.1,,2.8,,3.5,,2.7,
+237,,,,,,,,,,,,,,,,,,,,,,,
+238,C82-C85,Non-Hodgkin's lymphoma,Males,28.2,,27.8,,26.6,,26.8,,29.8,,25.1,,30.3,,27.4,,29.2,,29.4,
+239,C82-C85,Non-Hodgkin's lymphoma,Females,19.4,,18,,19.6,,18.8,,19.3,,19.6,,21.2,,20.2,,18.4,,19.3,
+240,,,,,,,,,,,,,,,,,,,,,,,
+241,C82,Follicular (nodular) non-Hodgkin's lymphoma,Males,4.3,,4.2,,3.4,,5.2,,4.7,,4,,4.5,,4.1,,4.4,,4.2,
+242,C82,Follicular (nodular) non-Hodgkin's lymphoma,Females,3.9,,3.5,,4.1,,4,,3.3,,3.7,,4.7,,3.9,,3.9,,3.3,
+243,,,,,,,,,,,,,,,,,,,,,,,
+244,C83,Diffuse non-Hodgkin's lymphoma,Males,16.1,,17.1,,15.9,,15,,16.8,,13.3,,18.9,,14.6,,16.4,,17.1,
+245,C83,Diffuse non-Hodgkin's lymphoma,Females,10,,9.6,,10,,9.6,,9.9,,9.9,,11,,9.7,,9.6,,10.4,
+246,,,,,,,,,,,,,,,,,,,,,,,
+247,C84,Peripheral and cutaneous T-cell lymphomas,Males,2.1,,2.1,,1.6,,2,,2.2,,2.1,,1.7,,1.9,,2.5,,2.2,
+248,C84,Peripheral and cutaneous T-cell lymphomas,Females,1.1,,1,u,1.1,,0.9,,0.9,,1.3,,1.2,,1.3,,1,,1,
+249,,,,,,,,,,,,,,,,,,,,,,,
+250,C85,Other and unspecified types of non-Hodgkin's lymphoma,Males,5.7,,4.4,,5.7,,4.6,,6.1,,5.7,,5.2,,6.8,,5.9,,5.9,
+251,C85,Other and unspecified types of non-Hodgkin's lymphoma,Females,4.5,,4,,4.5,,4.4,,5.2,,4.8,,4.4,,5.3,,3.9,,4.5,
+252,,,,,,,,,,,,,,,,,,,,,,,
+253,C88,Malignant immunoproliferative diseases,Males,0.8,,0.9,u,1,,0.9,u,0.9,u,1,,0.5,u,0.6,u,0.7,,0.9,
+254,C88,Malignant immunoproliferative diseases,Females,0.4,,,u,0.5,u,,u,,u,0.7,,,u,0.5,u,0.4,u,0.3,u
+255,,,,,,,,,,,,,,,,,,,,,,,
+256,C90,Multiple myeloma and malignant plasma cell neoplasms,Males,11.7,,12,,9.6,,11.1,,12.7,,10.8,,10.4,,14.1,,12.1,,12.7,
+257,C90,Multiple myeloma and malignant plasma cell neoplasms,Females,7.7,,6.9,,6.4,,7.2,,8.4,,7.3,,7.7,,9.3,,7.3,,8.3,
+258,,,,,,,,,,,,,,,,,,,,,,,
+259,C91-C95,Leukaemia,Males,21.5,,20.2,,22.5,,23.9,,21.3,,21.2,,19,,22.4,,20.5,,22.1,
+260,C91-C95,Leukaemia,Females,11.9,,10.3,,11.7,,13.7,,11.6,,11.7,,10.7,,13.2,,11.9,,11.5,
+261,,,,,,,,,,,,,,,,,,,,,,,
+262,C91,Lymphoid leukaemia,Males,11.1,,10.4,,11.7,,13.8,,11.3,,11.4,,10.1,,12.1,,9.9,,10.1,
+263,C91,Lymphoid leukaemia,Females,5.7,,4.2,,5.7,,7.2,,5.7,,5.8,,4.9,,6.5,,5.2,,5.8,
+264,,,,,,,,,,,,,,,,,,,,,,,
+265,C92,Myeloid leukaemia,Males,9.6,,9.3,,9.7,,9.7,,9,,9,,8.5,,9.6,,9.9,,11.4,
+266,C92,Myeloid leukaemia,Females,5.8,,5.9,,5.7,,6.2,,5.2,,5.4,,5.6,,6.2,,6.2,,5.5,
+267,,,,,,,,,,,,,,,,,,,,,,,
+268,C93,Monocytic leukaemia,Males,0.1,,,u,,u,,u,,u,,u,,u,,u,,u,,u
+269,C93,Monocytic leukaemia,Females,0.1,,,u,,u,,u,,u,,u,,u,,u,,u,,u
+270,,,,,,,,,,,,,,,,,,,,,,,
+271,C94,Other leukaemias of specified cell type,Males,0.2,,,u,0.3,u,,u,,u,,u,,u,,u,,u,,u
+272,C94,Other leukaemias of specified cell type,Females,0.1,u,,u,,u,,u,,u,,u,,u,,u,,u,,u
+273,,,,,,,,,,,,,,,,,,,,,,,
+274,C95,Leukaemia of unspecified cell type,Males,0.4,,,u,0.7,u,,u,,u,0.5,u,,u,0.4,u,0.4,u,,u
+275,C95,Leukaemia of unspecified cell type,Females,0.2,,,u,0.3,u,,u,,u,,u,,u,0.3,u,0.4,,,u
+276,,,,,,,,,,,,,,,,,,,,,,,
+277,C96,"Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue",Males,0.2,,,u,,u,,u,,u,,u,,u,,u,,u,,u
+278,C96,"Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue",Females,0.1,,,u,,u,,u,,u,,u,,u,,u,,u,,u
+279,,,,,,,,,,,,,,,,,,,,,,,
+280,C97,Malignant neoplasms of independent (primary) multiple sites,Males,,u,,u,,u,,u,,u,,u,,u,,u,,u,,u
+281,C97,Malignant neoplasms of independent (primary) multiple sites,Females,,u,,u,,u,,u,,u,,u,,u,,u,,u,,u
+282,,,,,,,,,,,,,,,,,,,,,,,
+283,D00,"Carcinoma in situ of oral cavity, oesophagus and stomach",Males,2.5,,3.7,,2.5,,2.5,,1.3,,1.8,,3.9,,2,,2.5,,2.7,
+284,D00,"Carcinoma in situ of oral cavity, oesophagus and stomach",Females,0.9,,1.1,u,0.9,,0.7,u,0.6,u,1,,1.3,,0.6,u,1.1,,1,
+285,,,,,,,,,,,,,,,,,,,,,,,
+286,D01,Carcinoma in situ of other and unspecified digestive organs,Males,7.7,,6,,6.3,,6.3,,3.4,,6.5,,16.4,,4.3,,6.3,,12.1,
+287,D01,Carcinoma in situ of other and unspecified digestive organs,Females,4.9,,3,,3.6,,4,,2.7,,4,,10,,3,,4.6,,7.9,
+288,,,,,,,,,,,,,,,,,,,,,,,
+289,D02,Carcinoma in situ of middle ear and respiratory system,Males,1.1,,1.7,,1.5,,0.8,u,1.4,,1.2,,1.2,,0.7,u,0.8,,1.2,
+290,D02,Carcinoma in situ of middle ear and respiratory system,Females,0.4,,,u,0.4,u,0.5,u,0.5,u,0.4,u,0.5,u,,u,0.2,u,0.4,u
+291,,,,,,,,,,,,,,,,,,,,,,,
+292,D03,Melanoma in situ,Males,12.2,,9.1,,11.4,,9.5,,9,,11.8,,9.1,,9.3,,16,,20,
+293,D03,Melanoma in situ,Females,10.9,,8.7,,12.7,,8,,7.5,,9.4,,10.1,,8,,13.7,,16.2,
+294,,,,,,,,,,,,,,,,,,,,,,,
+295,D045,Carcinoma in situ of skin,Males,0.2,,,u,,u,,u,,u,,u,,u,0.9,,0.3,u,,u
+296,D045,Carcinoma in situ of skin,Females,0.2,,,u,,u,,u,,u,,u,,u,0.7,,0.3,u,,u
+297,,,,,,,,,,,,,,,,,,,,,,,
+298,D056,Carcinoma in situ of breast,Males,0.1,,,u,,u,,u,,u,,u,,u,,u,,u,,u
+299,D056,Carcinoma in situ of breast,Females,26,,25.3,,25.9,,22.9,,25.7,,24.9,,24.2,,27.7,,27.5,,28.3,
+300,,,,,,,,,,,,,,,,,,,,,,,
+301,D06,Carcinoma in situ of cervix uteri,Females,90.1,,152.4,,59.5,,116.2,,117.8,,112.3,,109.3,,41.3,,91.6,,113.1,
+302,,,,,,,,,,,,,,,,,,,,,,,
+303,D07,Carcinoma in situ of other and unspecified genital organs,Males,6.3,,2.6,,3.7,,5.5,,5.8,,4.2,,14,,3.8,,4.8,,10.2,
+304,D07,Carcinoma in situ of other and unspecified genital organs,Females,3.1,,4.3,,2.3,,3.8,,3,,4.4,,3.3,,1.8,,2.7,,3.8,
+305,,,,,,,,,,,,,,,,,,,,,,,
+306,D09,Carcinoma in situ of other and unspecified sites,Males,29.8,,37.7,,32.5,,30.9,,31.8,,28.2,,30.7,,25.2,,26,,31.1,
+307,D09,Carcinoma in situ of other and unspecified sites,Females,7.7,,11.7,,8.2,,9.4,,7.9,,7.4,,7.7,,6.1,,5.8,,7.8,
+308,,,,,,,,,,,,,,,,,,,,,,,
+309,D32,Benign neoplasm of meninges,Males,2.3,,2.9,,1.9,,2.9,,1.9,,2,,2.4,,2.1,,2.1,,3.2,
+310,D32,Benign neoplasm of meninges,Females,5.4,,5.3,,4,,8.4,,3.3,,4.1,,4.4,,5.5,,5.9,,7.9,
+311,,,,,,,,,,,,,,,,,,,,,,,
+312,D33,Benign neoplasm of brain and other parts of central nervous system,Males,1.4,,1.5,u,1.3,,1.9,,1.1,,1.2,,1.3,,2.1,,1.3,,1.2,
+313,D33,Benign neoplasm of brain and other parts of central nervous system,Females,1.5,,1.4,u,2.1,,1.9,,1.1,,1.1,,1.4,,1.6,,1.4,,1.1,
+314,,,,,,,,,,,,,,,,,,,,,,,
+315,D35.2,Benign neoplasm of pituitary gland,Males,2,,3.5,,1.6,,3,,1.9,,1.6,,1.3,,1.7,,2.4,,1.8,
+316,D35.2,Benign neoplasm of pituitary gland,Females,1.5,,1.8,,1.1,,1.8,,0.8,u,1.6,,0.9,,2.3,,1.3,,1.2,
+317,,,,,,,,,,,,,,,,,,,,,,,
+318,D35.3,Benign neoplasm of craniopharyngeal duct,Males,,u,,u,,u,,u,,u,,u,,u,,u,,u,,u
+319,D35.3,Benign neoplasm of craniopharyngeal duct,Females,,u,,u,,u,,u,,u,,u,,u,,u,,u,,u
+320,,,,,,,,,,,,,,,,,,,,,,,
+321,D35.4,Benign neoplasm of pineal gland,Males,,u,,u,,u,,u,,u,,u,,u,,u,,u,,u
+322,D35.4,Benign neoplasm of pineal gland,Females,,u,,u,,u,,u,,u,,u,,u,,u,,u,,u
+323,,,,,,,,,,,,,,,,,,,,,,,
+324,D37,Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs,Males,2.2,,1.3,u,2.3,,2.2,,1.8,,1.9,,2,,2.7,,2.2,,2.9,
+325,D37,Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs,Females,2.3,,1.9,,2.4,,2.2,,2.4,,1.6,,2.7,,2.1,,2.1,,2.9,
+326,,,,,,,,,,,,,,,,,,,,,,,
+327,D38,Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs,Males,0.3,,,u,,u,,u,0.6,u,,u,0.5,u,,u,0.4,u,0.4,u
+328,D38,Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs,Females,0.3,,,u,,u,,u,,u,,u,0.4,u,,u,0.3,u,0.5,u
+329,,,,,,,,,,,,,,,,,,,,,,,
+330,D39,Neoplasm of uncertain or unknown behaviour of female genital organs,Females,1.2,,0.9,u,1.6,,0.8,,1.6,,1.4,,1.1,,1.2,,1.3,,1.2,
+331,,,,,,,,,,,,,,,,,,,,,,,
+332,D40,Neoplasm of uncertain or unknown behaviour of male genital organs,Males,0.2,,,u,,u,,u,,u,,u,,u,,u,,u,,u
+333,,,,,,,,,,,,,,,,,,,,,,,
+334,D41,Neoplasm of uncertain or unknown behaviour of urinary organs,Males,7.1,,3.7,,5,,6.4,,5,,7,,7.7,,9.1,,9.9,,6.7,
+335,D41,Neoplasm of uncertain or unknown behaviour of urinary organs,Females,2.5,,1,u,2,,1.9,,2.5,,2.3,,2.1,,2.3,,3.6,,3,
+336,,,,,,,,,,,,,,,,,,,,,,,
+337,D42,Neoplasm of uncertain or unknown behaviour of meninges,Males,0.4,,,u,0.5,u,,u,0.6,u,,u,0.6,u,,u,0.4,u,0.6,u
+338,D42,Neoplasm of uncertain or unknown behaviour of meninges,Females,0.5,,0.9,u,0.5,u,,u,1,,0.4,u,0.6,u,0.5,u,0.4,u,0.4,u
+339,,,,,,,,,,,,,,,,,,,,,,,
+340,D43,Neoplasm of uncertain or unknown behaviour of brain and central nervous system,Males,1.2,,,u,1,,0.9,,1.2,,1.2,,0.8,,1.6,,1.5,,1,
+341,D43,Neoplasm of uncertain or unknown behaviour of brain and central nervous system,Females,1,,,u,1.3,,0.7,,1,,1.3,,1,,1.2,,1.1,,0.9,
+342,,,,,,,,,,,,,,,,,,,,,,,
+343,D44,Neoplasm of uncertain or unknown behaviour of endocrine glands,Males,0.4,,,u,0.4,u,,u,,u,,u,0.5,u,0.5,u,0.4,u,,u
+344,D44,Neoplasm of uncertain or unknown behaviour of endocrine glands,Females,0.5,,,u,0.6,,,u,0.5,u,0.5,u,0.4,u,0.6,,0.5,,0.5,u
+345,,,,,,,,,,,,,,,,,,,,,,,
+346,D45,Polycythaemia vera,Males,1.1,,1.2,u,1.2,,1.2,,1.1,,0.6,u,1.2,,1.3,,1.1,,0.8,
+347,D45,Polycythaemia vera,Females,0.8,,0.8,u,1,,0.6,u,0.8,u,0.7,u,0.9,,0.9,,0.8,,0.7,
+348,,,,,,,,,,,,,,,,,,,,,,,
+349,D46,Myelodysplastic syndromes,Males,6.6,,8.8,,5.9,,7.5,,5.5,,6.5,,5.7,,6.3,,6.5,,8.1,
+350,D46,Myelodysplastic syndromes,Females,3.1,,5,,3,,4.1,,3.2,,3.1,,2.6,,3.1,,2.2,,3.1,
+351,,,,,,,,,,,,,,,,,,,,,,,
+352,D47,"Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",Males,4.4,,2.7,,4.2,,9,,4.4,,3.7,,3.4,,4.9,,4,,3,
+353,D47,"Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",Females,3.8,,3,,3.5,,7.3,,3.9,,3.4,,3.8,,3.4,,3.2,,3.1,
+354,,,,,,,,,,,,,,,,,,,,,,,
+355,D48,Neoplasm of uncertain or unknown behaviour of other and unspecified sites,Males,2.5,,2.2,,2.9,,2,,2.1,,1.4,,3,,1.9,,2.5,,4.4,
+356,D48,Neoplasm of uncertain or unknown behaviour of other and unspecified sites,Females,1.4,,1.3,u,1.1,,1.2,,1.3,,1.5,,1.5,,1.6,,1.5,,1.6,
+357,,,,,,,,,,,,,,,,,,,,,,,
+358,,,,,,,,,,,,,,,,,,,,,,,
+359,"C00-C97, D00-D48",All registrations,Males,1050.8,,1008.1,,1082.8,,995.5,,1006,,1009.6,,1096.9,,966.2,,1088,,1133.6,
+360,"C00-C97, D00-D48",All registrations,Females,900.3,,966,,913.7,,899.3,,909,,889,,923.7,,784.5,,924.8,,977.3,
+361,,,,,,,,,,,,,,,,,,,,,,,
+362,C00-C97,All malignant cancer registrations,Males,958.8,,916.9,,996,,902,,925.2,,927.8,,990.9,,884.8,,996.4,,1021.4,
+363,C00-C97,All malignant cancer registrations,Females,730.4,,734.4,,775.9,,702.2,,719.3,,701.9,,733.4,,668.5,,751.6,,770.5,
+364,,,,,,,,,,,,,,,,,,,,,,,
+365,,,,,,,,,,,,,,,,,,,,,,,
+366,Geographic boundaries are based on the February 2016 edition of the National Statistics Postcode Lookup file.,,,,,,,,,,,,,,,,,,,,,,
+367,,,,,,,,,,,,,,,,,,,,,,,
+368,"1. Directly age-standardised using the 2013 update of the European Standard Population with an upper age band of 90+ (see Methods for rates).  Therefore, caution should be taken if comparing these rates to rates in previous releases.",,,,,,,,,,,,,,,,,,,,,,
+369,2. These figures exclude non-melanoma skin cancer (ICD-10 C44) (see Notes and definitions).,,,,,,,,,,,,,,,,,,,,,,
+370,3. Non-melanoma skin cancer (NMSC) is very common but is known to be underreported. There are small areas of differing historical practice which may make comparisons across geographies and time difficult.,,,,,,,,,,,,,,,,,,,,,,
+371,4. Please see the 'Quality of cancer data' tab for an issue relating to Malignant neoplasm of placenta (ICD-10 C58).,,,,,,,,,,,,,,,,,,,,,,
+372,5. Please see the 'Quality of cancer data' tab for an issue relating to Carcinoma in situ of skin (ICD-10 D04).,,,,,,,,,,,,,,,,,,,,,,
+373,6. Please see the 'Quality of cancer data' tab for an issue relating to Carcinoma in situ of breast (ICD-10 D05).,,,,,,,,,,,,,,,,,,,,,,
+374,7. This table does not include the ICD-10 codes that are non mandatory (see Notes and definitions).,,,,,,,,,,,,,,,,,,,,,,
+375,8. Cancer incidence rates are estimates based on the latest mid-year population estimates for the reference year at the time of publication. ,,,,,,,,,,,,,,,,,,,,,,
+376,Rates calculated from fewer than 20 counts may have low reliability and are therefore marked by (u). ,,,,,,,,,,,,,,,,,,,,,,
+377,Age specific rates were not calculated where there were fewer than 3 cancer registrations in a cell.,,,,,,,,,,,,,,,,,,,,,,
+378,Directly age-standardised rates were not calculated where there were fewer than 10 counts in a cell.,,,,,,,,,,,,,,,,,,,,,,
+379,"Where rates have not been calculated due to low counts as described above, the cell has been left blank, and marked by (u) to show the rate was not calculated due to low reliability.",,,,,,,,,,,,,,,,,,,,,,
+380,,,,,,,,,,,,,,,,,,,,,,,
+381,Source: Office for National Statistics,,,,,,,,,,,,,,,,,,,,,,
